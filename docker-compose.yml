@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  vite-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: react-vite-app-weather:latest  # Specify the image name and tag
+    ports:
+      - "3000:80"
