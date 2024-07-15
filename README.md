@@ -7,6 +7,5 @@ to build and crate image : docker-compose up --build
 to run :
 http://localhost:3000
 
-<img> 
 ![image](https://github.com/user-attachments/assets/1f7ee63e-168b-44f8-a069-e4f4b80b8fe0)
-</img>
+
